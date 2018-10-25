@@ -1,6 +1,8 @@
 # sfg-pet-clinic
 
 #################################################################
-#The PetClinic Example from the Srping5-Course by John Thompson.
+
+The PetClinic Example from the Srping5-Course by John Thompson.
+
 #################################################################
 
