@@ -2,7 +2,7 @@
 
 #################################################################
 
-The PetClinic Example from the Srping5-Course by John Thompson.
+The PetClinic Example from the Spring5-Course by John Thompson.
 
 #################################################################
 
